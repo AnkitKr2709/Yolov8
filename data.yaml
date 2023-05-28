@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/Classes/YOLOv8/123/data/train/images
+val: /content/drive/MyDrive/Classes/YOLOv8/123/data/val/images
+
+nc: 2
+names: ["healthy","stressed"]
